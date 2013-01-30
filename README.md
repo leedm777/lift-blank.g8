@@ -4,9 +4,12 @@ This is a [giter8](http://github.com/n8han/giter8) template for Lift projects.
 
 If you have giter8 installed simply run: 
 
-    g8 git://github.com/mads379/lift-blank.g8.git
+    g8 git://github.com/leedm777/lift-blank.g8.git
 
 And you're up and running in no time!
+
+And thanks to [mads379](https://github.com/mads379), the original author
+of this template.
 
 ## Working on the template
 
